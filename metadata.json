@@ -1,0 +1,5 @@
+{
+  "name": "Arithmo Edge",
+  "description": "Real-time ELO-rated competitive mathematics and Olympiad ecosystem featuring 13 federated portals, deterministic SymPy verification, and browser-native proctoring.",
+  "requestFramePermissions": []
+}
